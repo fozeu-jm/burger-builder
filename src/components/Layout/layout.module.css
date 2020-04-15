@@ -1,0 +1,16 @@
+.Content{
+    padding-top: 72px;
+    background-image: url(../../assets/bgrd.jpg);
+    background-size: cover;
+    box-sizing: content-box;
+    height: 100%;
+}
+
+@media screen and (min-width:968px){
+    .Content{
+        padding-top: 100px;
+        height: 100vh;
+        box-sizing: border-box;
+    }
+    
+}

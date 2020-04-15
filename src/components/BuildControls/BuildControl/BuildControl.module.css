@@ -1,0 +1,56 @@
+.BuildControl{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0;
+}
+.ControlPrice {
+    font-weight: 300;
+    color: #777;
+    font-size: .9em;
+}
+.minus, .plus{
+    cursor:pointer;
+    width:34px;
+    height:34px;
+    background:#f2f2f2;
+    border-radius:4px;
+    padding:3px 5px 8px 5px;
+    border:1px solid #ddd;
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: middle;
+    text-align: center;
+}
+.minus:disabled{
+    border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+  cursor: default;
+}
+.counter{
+    height:34px;
+    width: 40px;
+    text-align: center;
+    font-size: 26px;
+    border:1px solid #ddd;
+    border-radius:4px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.ControlImageDisabled {
+    height: 40px;
+    margin-right: 10px;
+}
+.ControlImageDisabled img {
+    height: 100%;
+    border-radius: 100%;
+    border: 2px solid #dbdfe2;
+}
+.Label {
+    padding: 10px;
+    padding-top: 11px;
+    font-weight: 700;
+    width: 80px;
+}

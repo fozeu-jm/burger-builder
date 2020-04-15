@@ -1,0 +1,17 @@
+.Auth{
+    margin: auto;
+    background-color: white;
+    padding: 5%;
+}
+
+.error{
+    font-style: italic;
+    color: red;
+}
+
+@media (min-width: 500px){
+    .Auth{
+        margin: auto;
+        width: 700px;
+    }
+}

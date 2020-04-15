@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "burger-builder",
+    "burger-builder": "burger-builder-55849"
+  }
+}
