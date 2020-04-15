@@ -1,4 +1,4 @@
-# Project demo available [here] [https://burger-builder-55849.web.app/]
+# Demo available [here] (https://burger-builder-55849.web.app/)
 ## Context
 This project was done using Reat Js for the front ent and firebase for the backend and authentication.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
